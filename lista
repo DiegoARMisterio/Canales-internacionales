@@ -6,6 +6,10 @@
 #EXTINF:-1  group-title="Costa Rica", TD+ | HD | Costa Rica
 http://uruguayiptv.com:25461/leandro1/leandro123/72752
 
+
 #EXTINF:-1  group-title="Costa Rica", TD+2 | HD | Costa Rica
 http://190.83.119.67:8000/play/a0oa/index.m3u8
+
+#EXTINF:-1  group-title="Costa Rica", Tooncast | HD | Costa Rica
+https://cvi.cdn.rcs.net.ar/mnp/tooncast_hls/audio_4/playlist.m3u8
 
